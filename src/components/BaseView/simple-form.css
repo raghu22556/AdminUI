@@ -1,0 +1,25 @@
+.ant-row {
+  display: block ;
+}
+
+.ant-form-item
+  .ant-form-item-label {
+  text-align: left !important;
+  margin-bottom: -5px !important;
+  margin-left: 10px !important;
+}
+.ant-col {
+  margin-left: 20px !important;
+  margin-bottom: 20px !important;
+}
+.ant-form-item
+  .ant-form-item-control-input-content {
+  max-width: 93% !important;
+}
+input[placeholder="DD-MM-YYYY"] {
+  width: 250px !important;
+  padding: 17px !important;
+}
+label + .MuiInput-formControl {
+  width: 331px !important;
+}
